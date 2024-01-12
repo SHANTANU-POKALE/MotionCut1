@@ -1,0 +1,39 @@
+body {
+    background-image: url('flat-point-coins-background_23-2148879611.avif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+  }
+
+  
+ /* Add your custom styles here */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+
+
+.link-body-emphasis {
+  color: #ffffff !important; 
+}
+
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); 
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6; 
+}
+
+.table thead th {
+  background-color: #343a40; 
+  color: #ffffff; 
+}
+
+
+
